@@ -6,3 +6,4 @@ Solution of the acoustic vibrations of the material layer in Python using FEM. T
 
 
 ## Example solution (n=700)
+![chart](images/chart.png)
